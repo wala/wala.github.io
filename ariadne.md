@@ -12,11 +12,14 @@ Atom, VSCode, PyCharm, Sublime, Emacs, Vim and NeoVim.
 JupyterLabs is in progress.
 Spyder and Eclipse are coming soon.
 
-## Where can I get it?
-We're a small team and aren't quite ready for you to download our work, but leave us and issue on our GitHub page or email either <mailto:dolby@us.ibm.com> or <mailto:acallain@us.ibm.com> and we will keep you informed as soon as we have something you can use.
-
 ## How can I help?
 We are currently looking for real life code examples to analyze. Leave it messy, leave it commented, we prefer to see the code in its natural state. Let us know what made it annoying or difficult to write, the bugs your encountered, and what kinds of support you'd like to see from a *static* analysis tool.
+
+
+## Where can I get it?
+We're a small team and aren't quite ready for you to download our work, leave us a note here and we'll get you information about how to access our tool as soon as it's available.
+<form action="http://formspree.io/acallain@us.ibm.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+
 
 # MAPL 2018 Resources
 * [Slides - WALA Ariadne: Analysis for Machine Learning](https://juliandolby.github.io/mapl/talk/2018/06/14/mapl-ariadne-analysis.html#/)
