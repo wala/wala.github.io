@@ -7,9 +7,9 @@ WALA Ariadne uses static analayis of python for TensorFlow to give machine learn
 Through static analysis techniques (provided by WALA) such as Data Flow analysis, WALA Ariadne is able to provide type-like functionality that tracks tensors, provides backward slicing to track variables, and much more. We make this functionality available through the Language Server Protocol, meaning in most cases, it's as easy as a simple configuration to get any LSP-supported enviroment up and running.
 
 ## What IDEs / Editors are supported?
-Right now, we support almost everything environment & editor that utilizes LSP.
-Atom, VSCode, PyCharm, Sublime, Emacs, Vim and NeoVim.
-JupyterLabs is in progress.
+Right now, we support almost every environment and editor that utilizes LSP.
+Atom, VSCode, PyCharm, Sublime, Emacs, Vim and NeoVim are known to work.
+JupyterLabs does not yet support LSP, but work is in progress.
 Spyder and Eclipse are coming soon.
 
 ## How can I help?
@@ -17,7 +17,7 @@ We are currently looking for real life code examples to analyze. Leave it messy,
 [Share your feedback here](https://goo.gl/forms/JkQhgOkkEvrtydVc2)
 
 ## Where can I get it?
-We're a small team and aren't quite ready for you to download our work, leave us a note here and we'll get you information about how to access our tool as soon as it's available.
+We're a small team and aren't quite ready for you to download our work, but please leave us a note here and we'll get you information about how to access our tool as soon as it's available.
 
 # MAPL 2018 Resources
 * [Slides - WALA Ariadne: Analysis for Machine Learning](https://juliandolby.github.io/mapl/talk/2018/06/14/mapl-ariadne-analysis.html#/)
