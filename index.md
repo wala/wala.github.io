@@ -1,7 +1,9 @@
 # WALA
 
-* [Javadoc](https://wala.github.io/javadoc)
+* [Building](building) 
+* [Javadoc](https://wala.github.io/javadoc) 
 
 # Ariadne
 
-* [Introduction](https://wala.github.io/ariadne/)
+* [Introduction](ariadne)
+* [Building](ariadne_building) 
