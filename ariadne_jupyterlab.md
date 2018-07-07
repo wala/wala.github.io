@@ -4,6 +4,8 @@
 
 * The [Yarn](https://yarnpkg.com/lang/en/) manager for JavaScript must be installed on your system 
 
+* [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) must be installed
+
 ## Steps
 
 ### Build Client
