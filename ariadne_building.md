@@ -4,6 +4,8 @@ Ariadne currently supports a variety of IDE platforms, each with different confi
 
 * [JupyterLab](/ariadne_jupyterlab)
 
+* [Visual Studio Code](/ariadne_vscode)
+
 * [PyCharm](/ariadne_pycharm)
 
 * [Monaco](/ariadne_monaco) 
