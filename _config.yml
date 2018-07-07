@@ -2,7 +2,7 @@
 name: WALA
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: The home of WALA and Ariadne.
+description: The home of WALA and Ariadne. <br><a href="https://wala.github.io"><small>(Back to top)</small></a>
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: Julian Dolby, Avi Shinnar, Allison Allain, Jenna Reinen
@@ -41,3 +41,4 @@ theme: jekyll-theme-slate
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
