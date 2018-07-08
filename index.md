@@ -1,9 +1,9 @@
 # WALA
 
-* [Building](./building) 
-* [Javadoc](./javadoc)
+* [Building](./building.md) 
+* [Javadoc](./javadoc.md)
 
 # Ariadne
 
-* [Introduction](./ariadne)
-* [Building](./ariadne_building) 
+* [Introduction](./ariadne.md)
+* [Building](./ariadne_building.md) 
