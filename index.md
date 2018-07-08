@@ -1,7 +1,7 @@
 # WALA
 
 * [Building](building) 
-* [Javadoc](https://wala.github.io/javadoc) 
+* [Javadoc](javadoc)
 
 # Ariadne
 
