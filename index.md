@@ -1,7 +1,7 @@
 # WALA
 
 * [Building](./building.md) 
-* [Javadoc](./javadoc.md)
+* [Javadoc](./jdf.md)
 
 # Ariadne
 
