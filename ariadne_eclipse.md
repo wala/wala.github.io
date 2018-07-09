@@ -9,10 +9,12 @@
 
 ## Steps
 
-* Create a command for `ML/com.ibm.wala.cast.python.ml/run.sh`
+* Create a command for `ML/com.ibm.wala.cast.python.ml/run.sh`.
 
 * In Preferences -> Language Servers, add that command as a server for
-Python files
+Python files.
 
 * If you do not see an option for Python files, install PyDev, and
-  then you should
+  then you should.
+
+* You may see more Ariadne results if you open Python files in the generic editor.

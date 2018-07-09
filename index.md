@@ -2,6 +2,7 @@
 
 * [Building](./building.md) 
 * [Javadoc](./jdf.md)
+* [Continuous integration](testing)
 
 # Ariadne
 
