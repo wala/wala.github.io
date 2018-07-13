@@ -6,7 +6,7 @@
 
 * Installed JDK 8, with JAVA_HOME pointing to it 
 
-* Installed Android SDK, with ANDROID_HOME pointing to it 
+* Installed Android SDK, including version 26.0.2, with ANDROID_HOME pointing to it 
 
 * Recent Apache Maven on path 
 
