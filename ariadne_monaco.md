@@ -1,4 +1,4 @@
-# Installing Ariadne in Atom
+# Installing Ariadne in Monaco
 
 ## Prerequisites
 
