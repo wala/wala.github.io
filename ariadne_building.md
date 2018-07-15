@@ -8,7 +8,9 @@ Ariadne currently supports a variety of IDE platforms, each with different confi
 
 * [PyCharm](/ariadne_pycharm)
 
-* [Eclipse](/ariadne_eclipse)
+* [Eclipse](/ariadne_eclipse) 
+
+* [Spyder](/ariadne_spyder) 
 
 * [Monaco](/ariadne_monaco) 
 
