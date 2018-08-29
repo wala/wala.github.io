@@ -22,4 +22,4 @@ We are currently looking for real life code examples to analyze. Leave it messy,
 <img src="https://raw.githubusercontent.com/wala/wala.github.io/master/MAPL-POSTER-1.0.001.png" alt="MAPL 2018 Poster " class="inline" width="50%" height="50%"/>
 
 # JupyterCon 2018 Resources 
-<img src="https://raw.githubusercontent.com/wala/wala.github.io/master/JUPTERCON-POSTER-1.0.001.png" alt="JupyterCon 2018 Poster " class="inline" width="50%" height="50%"/>
+<img src="https://raw.githubusercontent.com/wala/wala.github.io/master/JUPYTERCON-POSTER-1.0.001.png" alt="JupyterCon 2018 Poster " class="inline" width="50%" height="50%"/>
