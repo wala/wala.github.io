@@ -16,7 +16,10 @@ Spyder and Eclipse are coming soon.
 We are currently looking for real life code examples to analyze. Leave it messy, leave it commented, we prefer to see the code in its natural state. Let us know what made it annoying or difficult to write, the bugs your encountered, and what kinds of support you'd like to see from a *static* analysis tool.
 [Share your feedback here](https://goo.gl/forms/JkQhgOkkEvrtydVc2)
 
-# Mapl 2018 Resources
+# Mapl 2018 Resources 
 * [Slides - WALA Ariadne: Analysis for Machine Learning](https://juliandolby.github.io/mapl/talk/2018/06/14/mapl-ariadne-analysis.html#/)
 * [Paper - WALA Ariadne: Analysis for Machine Learning](https://arxiv.org/pdf/1805.04058)
 <img src="https://raw.githubusercontent.com/wala/wala.github.io/master/MAPL-POSTER-1.0.001.png" alt="MAPL 2018 Poster " class="inline" width="50%" height="50%"/>
+
+# JupyterCon 2018 Resources 
+<img src="https://raw.githubusercontent.com/wala/wala.github.io/master/JUPTERCON-POSTER-1.0.001.png" alt="JupyterCon 2018 Poster " class="inline" width="50%" height="50%"/>
