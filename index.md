@@ -4,7 +4,10 @@
 * [Javadoc](./jdf.md)
 * [Continuous integration](testing)
 
-# Ariadne
+# [Ariadne](./ariadne.md)
 
-* [Introduction](./ariadne.md)
-* [Building](./ariadne_building.md) 
+WALA Ariadne provides IDE integrated tooling to support machine learning practitioners.
+
+For more information, please see [Ariadne](./ariadne.md)'s website.
+
+Ariadne is built on WALA, using static analysis of python for TensorFlow.
