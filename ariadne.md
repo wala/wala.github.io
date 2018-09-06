@@ -1,8 +1,8 @@
 # WALA Ariadne
 
 ## What is it? 
-WALA Ariadne uses static analayis of python for TensorFlow to give
-machine learning practitioners the modern software development
+WALA Ariadne uses static analayis of Python for TensorFlow to give
+machine learning practitioners modern software development
 support.  The video below gives a flavor of Ariadne:
 * Integrated into common IDEs, such as JupyterLab
 * Information loads asynchronously, displaying when available
