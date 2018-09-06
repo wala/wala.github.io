@@ -1,5 +1,10 @@
 # WALA Ariadne
 
+<video width="587" height="356" controls>
+  <source src="/video/AriadneInJupyterLab.8.3.18.mp4" type="video/mp4"/>
+Your browser does not support the video tag.
+</video>
+
 ## What is it?
 WALA Ariadne uses static analayis of python for TensorFlow to give machine learning practitioners the modern software development support.
 
