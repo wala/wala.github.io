@@ -22,7 +22,7 @@ Information on obtaining/installing Ariadne into your favorite IDE is available 
 ## What IDEs / Editors are supported?
 Right now, we support almost every environment and editor that utilizes LSP.
 Atom, VSCode, PyCharm, Sublime, Emacs, Vim and NeoVim are known to work.
-Additionally, Spyder, Eclipse, and JupyterLabs are all experimentally supported, see their dedicated setup pages for more detail.
+Additionally, Spyder, Eclipse, and JupyterLab are all experimentally supported, see their dedicated setup pages for more detail.
 
 ## How does it work?
 Through static analysis techniques (provided by WALA) such as Data Flow analysis, WALA Ariadne is able to provide type-like functionality that tracks tensors, provides backward slicing to track variables, and much more. We make this functionality available through the Language Server Protocol, meaning in most cases, it's as easy as a simple configuration to get any LSP-supported enviroment up and running.
