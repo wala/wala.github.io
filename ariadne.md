@@ -17,7 +17,19 @@ Your browser does not support the video tag.
 
 # [Download/Install](./ariadne_building.md)
 
-Information on obtaining/installing Ariadne into your favorite IDE is available [here](./ariadne_building.md)
+Information on obtaining/installing Ariadne into your favorite IDE is
+available [here](./ariadne_building.md), or click the logo of your
+favorite IDE below:
+
+[<img src="/logos/jupyter.png" height="50"/>](/ariadne_jupyterlab)[<img src="/logos/VisualCode.png" height="50"/>](/ariadne_vscode)
+[<img src="/logos/pycharm.png" height="50"/>](/ariadne_pycharm)
+[<img src="/logos/eclipse-11-logo-png-transparent.png" height="50"/>](/ariadne_eclipse)
+[<img src="/logos/2000px-Spyder_logo.svg.png" height="50"/>](/ariadne_spyder)
+[<img src="/logos/mslogo.png" height="50"/>](/ariadne_monaco)
+[<img src="/logos/atom-4-logo-png-transparent.png" height="50"/>](/ariadne_atom)
+[<img src="/logos/Apps-Sublime-Text-icon.png" height="50"/>](/ariadne_sublime)
+[<img src="/logos/1024px-EmacsIcon.svg.png" height="50"/>](/ariadne_emacs)
+[<img src="/logos/Vimlogo.svg.png" height="50"/>](/ariadne_vim) 
 
 ## What IDEs / Editors are supported?
 Right now, we support almost every environment and editor that utilizes LSP.

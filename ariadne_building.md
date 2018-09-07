@@ -9,9 +9,9 @@ and then follow IDE specific instructions for setting it up.
 
 Ariadne currently supports a variety of IDE platforms, each with different configuration, listed below.  For any of these platforms, you'll need to [Download Ariadne](/ariadne_building#downloading.md) first.
 
-[<img src="/logos/jupyter.png" height="50"/> JupyterLab](/ariadne_jupyterlab) 
+[<img src="/logos/jupyter.png" height="50"/> JupyterLab](/ariadne_jupyterlab)
 
-[<img src="/logos/VisualCode.jpg" height="50"/> Visual Studio Code](/ariadne_vscode) 
+[<img src="/logos/VisualCode.png" height="50"/> Visual Studio Code](/ariadne_vscode)
 
 [<img src="/logos/pycharm.png" height="50"/> PyCharm](/ariadne_pycharm) 
 
@@ -25,7 +25,7 @@ Ariadne currently supports a variety of IDE platforms, each with different confi
 
 [<img src="/logos/Apps-Sublime-Text-icon.png" height="50"/> Sublime](/ariadne_sublime) 
 
-[<img src="/logos/1024px-EmacsIcon.svg.png" height="50"/> Emacs](/ariadne_emacs) 
+[<img src="/logos/1024px-EmacsIcon.svg.png" height="50"/> Emacs](/ariadne_emacs)
 
 [<img src="/logos/Vimlogo.svg.png" height="50"/> Vim](/ariadne_vim) 
 
