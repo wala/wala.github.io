@@ -15,26 +15,25 @@ support.  The video below gives a flavor of Ariadne:
 Your browser does not support the video tag.
 </video>
 
-# [Download/Install](./ariadne_building.md)
+# [Installing Ariadne](./ariadne_building.md)
 
-Information on obtaining/installing Ariadne into your favorite IDE is
-available [here](./ariadne_building.md), or click the logo of your
-favorite IDE below:
+ Right now, we support almost every environment and editor that
+utilizes the [Language Server Protocol (LSP)](https://github.com/Microsoft/language-server-protocol): Atom, Eclipse, Emacs, JupyterLab, NeoVim, PyCharm, Sublime, Spyder, Vim and VSCode are known to work to varying degrees.
 
-[<img src="/logos/jupyter.png" height="50"/>](/ariadne_jupyterlab)[<img src="/logos/VisualCode.png" height="50"/>](/ariadne_vscode)
-[<img src="/logos/pycharm.png" height="50"/>](/ariadne_pycharm)
-[<img src="/logos/eclipse-11-logo-png-transparent.png" height="50"/>](/ariadne_eclipse)
-[<img src="/logos/2000px-Spyder_logo.svg.png" height="50"/>](/ariadne_spyder)
-[<img src="/logos/mslogo.png" height="50"/>](/ariadne_monaco)
-[<img src="/logos/atom-4-logo-png-transparent.png" height="50"/>](/ariadne_atom)
-[<img src="/logos/Apps-Sublime-Text-icon.png" height="50"/>](/ariadne_sublime)
-[<img src="/logos/1024px-EmacsIcon.svg.png" height="50"/>](/ariadne_emacs)
+ Information on obtaining/installing Ariadne into your favorite IDE is 
+available [here](./ariadne_building.md), or click the logo of your 
+favorite IDE below: 
+
+[<img src="/logos/jupyter.png" height="50"/>](/ariadne_jupyterlab)[<img src="/logos/VisualCode.png" height="50"/>](/ariadne_vscode) 
+[<img src="/logos/pycharm.png" height="50"/>](/ariadne_pycharm) 
+[<img src="/logos/eclipse-11-logo-png-transparent.png" height="50"/>](/ariadne_eclipse) 
+[<img src="/logos/2000px-Spyder_logo.svg.png" height="50"/>](/ariadne_spyder) 
+[<img src="/logos/mslogo.png" height="50"/>](/ariadne_monaco) 
+[<img src="/logos/atom-4-logo-png-transparent.png" height="50"/>](/ariadne_atom) 
+[<img src="/logos/Apps-Sublime-Text-icon.png" height="50"/>](/ariadne_sublime) 
+[<img src="/logos/1024px-EmacsIcon.svg.png" height="50"/>](/ariadne_emacs) 
 [<img src="/logos/Vimlogo.svg.png" height="50"/>](/ariadne_vim) 
 
-## What IDEs / Editors are supported?
-Right now, we support almost every environment and editor that utilizes LSP.
-Atom, VSCode, PyCharm, Sublime, Emacs, Vim and NeoVim are known to work.
-Additionally, Spyder, Eclipse, and JupyterLab are all experimentally supported, see their dedicated setup pages for more detail.
 
 ## How does it work?
 Through static analysis techniques (provided by WALA) such as Data Flow analysis, WALA Ariadne is able to provide type-like functionality that tracks tensors, provides backward slicing to track variables, and much more. We make this functionality available through the Language Server Protocol, meaning in most cases, it's as easy as a simple configuration to get any LSP-supported enviroment up and running.
