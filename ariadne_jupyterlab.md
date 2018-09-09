@@ -25,9 +25,9 @@ Tomcat 9
 
 ### Get Ariadne for WebSockets
 
-* Download [Ariadne J2EE jar](https://github.com/wala/ML/blob/gh-pages/com.ibm.wala.cast.python.ml.j2ee/target/com.ibm.wala.cast.python.ml.j2ee-0.0.1-SNAPSHOT.war?raw=true)
+* Download [WALA Ariadne J2EE war](https://github.com/wala/ML/blob/gh-pages/com.ibm.wala.cast.python.ml.j2ee/target/com.ibm.wala.cast.python.ml.j2ee-0.0.1-SNAPSHOT.war?raw=true)
 
-* Deploy WAR file to server; for Tomcat, copy to webapps directory
+* Deploy WAR file as `wala-ariadne.war` to server; for Tomcat, copy to webapps directory
 
 * Run server
 
@@ -35,3 +35,7 @@ Tomcat 9
 
 * In the jupyterab-monaco directory, `jupyter lab`
 
+* If needed, adjust the WAR file URL in `Settings -> Advanced Settings
+  Editor -> Monaco Editor -> lspServer`.  The protocol must be `ws`
+  and check the hostname, port and path.  For Tomcat 9, the path
+  should be `wala-ariadne/websocket`
