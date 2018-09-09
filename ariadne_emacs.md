@@ -1,14 +1,13 @@
 # Installing Ariadne in Emacs
 
+ Language Server Protocol support for Emacs is provided by the
+ [eglot](https://github.com/joaotavora/eglot) package.
+ 
 ## Prerequisites
 
-* Emacs 25 or 26
+* Emacs 26+
 
 ## Steps
-
-* 'git clone https://github.com/emacs-lsp/lsp-mode`
-
-* 'git clone https://github.com/emacs-lsp/lsp-ui`
 
 * Edit the file `IDE/emacs/.emacs` to reflect your settings
 
