@@ -3,7 +3,8 @@
 ## What is it? 
 WALA Ariadne uses static analayis of Python for TensorFlow to give
 machine learning practitioners modern software development
-support.  The video below gives a flavor of Ariadne:
+support.  The video below gives a flavor of Ariadne, in this case
+integrated into JupyterLab:
 * Integrated into common IDEs, such as JupyterLab
 * Information loads asynchronously, displaying when available
 * Information about tensor shapes displayed in code lenses and hovers

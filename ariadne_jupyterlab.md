@@ -23,13 +23,7 @@ Tomcat 9
 
 * `jupyter labextension link`
 
-### Get Ariadne for WebSockets
-
-* Download [WALA Ariadne J2EE war](https://github.com/wala/ML/blob/gh-pages/com.ibm.wala.cast.python.ml.j2ee/target/com.ibm.wala.cast.python.ml.j2ee-0.0.1-SNAPSHOT.war?raw=true)
-
-* Deploy WAR file as `wala-ariadne.war` to server; for Tomcat, copy to webapps directory
-
-* Run server
+### [Get Ariadne for WebSockets](../ariadne_websockets)
 
 ### Open Editor
 

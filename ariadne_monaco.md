@@ -12,15 +12,7 @@
 
 * `yarn install`
 
-### Build Server
-
-* Install server support for Tomcat 9 in Eclipse
-
-* Import the `com.ibm.wala.cast.lsp.tomcat` project
-
-* Add `com.ibm.wala.cast.python.ml-0.0.1-SNAPSHOT.jar` in Properties -> Deployment Assembly of that project
-
-* Run the project on the server
+### [Get Ariadne for WebSockets](../ariadne_websockets)
 
 ### Open Editor
 
