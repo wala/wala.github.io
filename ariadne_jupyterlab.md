@@ -6,6 +6,9 @@
 
 * [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) must be installed
 
+* J2EE server that supports WebSockets.  We have successfully used
+Tomcat 9
+
 ## Steps
 
 ### Build Client
@@ -20,15 +23,13 @@
 
 * `jupyter labextension link`
 
-### Build Server
+### Get Ariadne for WebSockets
 
-* Install server support for Tomcat 9 in Eclipse
+* Download [Ariadne J2EE jar](https://github.com/wala/ML/blob/gh-pages/com.ibm.wala.cast.python.ml.j2ee/target/com.ibm.wala.cast.python.ml.j2ee-0.0.1-SNAPSHOT.war?raw=true)
 
-* Import the `com.ibm.wala.cast.lsp.tomcat` project
+* Deploy WAR file to server; for Tomcat, copy to webapps directory
 
-* Add `com.ibm.wala.cast.python.ml-0.0.1-SNAPSHOT.jar` in Properties -> Deployment Assembly of that project
-
-* Run the project on the server
+* Run server
 
 ### Open Editor
 
