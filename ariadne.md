@@ -40,7 +40,10 @@ favorite IDE below:
 Through static analysis techniques (provided by WALA) such as Data Flow analysis, WALA Ariadne is able to provide type-like functionality that tracks tensors, provides backward slicing to track variables, and much more. We make this functionality available through the Language Server Protocol, meaning in most cases, it's as easy as a simple configuration to get any LSP-supported enviroment up and running.
 
 ## Source
-The Ariadne framework is open source, hosted on [GitHub](https://github.com/wala/ML).
+The Ariadne framework is open source, hosted on GitHub, with projects
+for the [analysis itself](https://github.com/wala/ML), the
+[Language Server Protocol support](https://github.com/wala/IDE) and the
+[underlying analysis framework](https://github.com/wala/WALA).
 
 
 ## How can I help?
