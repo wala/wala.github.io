@@ -1,7 +1,10 @@
-# WALA Ariadne
+---
+layout: spage
+title: "WALA Ariadne"
+---
 
 ## What is it? 
-WALA Ariadne uses static analayis of Python for TensorFlow to give
+WALA Ariadne uses static analaysis of Python for TensorFlow to give
 machine learning practitioners modern software development
 support.  The video below gives a flavor of Ariadne, in this case
 integrated into JupyterLab:
@@ -16,24 +19,24 @@ integrated into JupyterLab:
 Your browser does not support the video tag.
 </video>
 
-# [Installing Ariadne](./ariadne_building.md)
+# [Installing Ariadne](./IDE/index.md)
 
  Right now, we support almost every environment and editor that
 utilizes the [Language Server Protocol (LSP)](https://github.com/Microsoft/language-server-protocol): Atom, Eclipse, Emacs, JupyterLab, NeoVim, PyCharm, Sublime, Spyder, Vim and VSCode are known to work to varying degrees.
 
  Information on obtaining/installing Ariadne into your favorite IDE is 
-available [here](./ariadne_building.md), or click the logo of your 
+available [here](./IDE/index.md), or click the logo of your 
 favorite IDE below: 
 
-[<img src="/logos/jupyter.png" height="50"/>](/ariadne_jupyterlab)[<img src="/logos/VisualCode.png" height="50"/>](/ariadne_vscode) 
-[<img src="/logos/pycharm.png" height="50"/>](/ariadne_pycharm) 
-[<img src="/logos/eclipse-11-logo-png-transparent.png" height="50"/>](/ariadne_eclipse) 
-[<img src="/logos/2000px-Spyder_logo.svg.png" height="50"/>](/ariadne_spyder) 
-[<img src="/logos/mslogo.png" height="50"/>](/ariadne_monaco) 
-[<img src="/logos/atom-4-logo-png-transparent.png" height="50"/>](/ariadne_atom) 
-[<img src="/logos/Apps-Sublime-Text-icon.png" height="50"/>](/ariadne_sublime) 
-[<img src="/logos/1024px-EmacsIcon.svg.png" height="50"/>](/ariadne_emacs) 
-[<img src="/logos/Vimlogo.svg.png" height="50"/>](/ariadne_vim) 
+[<img src="/logos/jupyter.png" height="50"/>](/IDE/jupyterlab)[<img src="/logos/VisualCode.png" height="50"/>](/IDE/vscode) 
+[<img src="/logos/pycharm.png" height="50"/>](/IDE/pycharm) 
+[<img src="/logos/eclipse-11-logo-png-transparent.png" height="50"/>](/IDE/eclipse) 
+[<img src="/logos/2000px-Spyder_logo.svg.png" height="50"/>](/IDE/spyder) 
+[<img src="/logos/mslogo.png" height="50"/>](/IDE/monaco) 
+[<img src="/logos/atom-4-logo-png-transparent.png" height="50"/>](/IDE/atom) 
+[<img src="/logos/Apps-Sublime-Text-icon.png" height="50"/>](/IDE/sublime) 
+[<img src="/logos/1024px-EmacsIcon.svg.png" height="50"/>](/IDE/emacs) 
+[<img src="/logos/Vimlogo.svg.png" height="50"/>](/IDE/vim) 
 
 
 ## How does it work?

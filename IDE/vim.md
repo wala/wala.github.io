@@ -1,3 +1,8 @@
+---
+layout: page
+title: "WALA Ariadne: Working with VSCode"
+---
+
 # Installing Ariadne in VI
 
 ## Prerequisites

@@ -1,3 +1,7 @@
+---
+layout: spage
+title: "Testing"
+---
 
 | Project | Status |
 |------|------|

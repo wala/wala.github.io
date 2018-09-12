@@ -1,6 +1,8 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: WALA
+name: WALA / Ariadne
 
+title: WALA / Ariadne
+tagline: Static Analysis tools
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: The home of WALA and Ariadne. <br><a href="https://wala.github.io"><small>(Back to top)</small></a>
 
@@ -37,7 +39,7 @@ permalink: pretty
 paginate: 3
 
 # Include the Gihub Pages theme
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

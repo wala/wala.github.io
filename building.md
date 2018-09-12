@@ -1,3 +1,8 @@
+---
+layout: spage
+title: "Building"
+---
+
 # Building WALA
 
 * You must install these projects in order, as there are dependences
