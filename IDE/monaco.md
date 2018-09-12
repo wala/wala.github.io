@@ -1,4 +1,9 @@
-# Installing Ariadne in Monaco
+---
+layout: page
+title: "WALA Ariadne: Installing in Monaco"
+---
+
+{% include downloading.md %}
 
 ## Prerequisites
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "WALA Ariadne: Working with VSCode"
+title: "WALA Ariadne: Installing in VSCode"
 ---
 
-# Installing Ariadne in Visual Studio Code
+{% include downloading.md %}
 
 ## Prerequisites
 

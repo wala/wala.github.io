@@ -1,4 +1,9 @@
-# Installing Ariadne in Atom
+---
+layout: page
+title: "WALA Ariadne: Installing in Atom"
+---
+
+{% include downloading.md %}
 
 ## Prerequisites
 

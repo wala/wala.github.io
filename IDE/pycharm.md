@@ -1,4 +1,9 @@
-# Installing Ariadne in PyCharm
+---
+layout: page
+title: "WALA Ariadne: Installing in PyCharm"
+---
+
+{% include downloading.md %}
 
 ## Prerequisites
 
