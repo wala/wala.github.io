@@ -1,6 +1,7 @@
 ---
-layout: spage
+layout: page
 title: "IDE Integration"
+sidebar-title: "IDE Integration"
 ---
 
 {% include downloading.md %}

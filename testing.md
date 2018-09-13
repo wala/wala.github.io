@@ -1,6 +1,7 @@
 ---
-layout: spage
-title: "Testing"
+layout: page
+title: "Testing Status"
+sidebar-title: "Testing"
 ---
 
 | Project | Status |

@@ -19,13 +19,10 @@
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "spage" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
-        {% if node.sidebar-title != null %} {{node.sidebar-title}}
-        {% else %} {{node.title}} 
-        {% endif %}</a>
-          {% endif %}
+        {% if node.sidebar-title != null %} 
+        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">
+        {{node.sidebar-title}}
+      </a>
         {% endif %}
       {% endfor %}
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>

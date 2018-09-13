@@ -1,6 +1,7 @@
 ---
-layout: spage
+layout: nosidebar
 title: "Javadocs (WALA)"
+sidebar-title: "Javadocs (WALA)"
 ---
 <style>
     #myFrame { width:140%; height:5in; align:left; }

@@ -1,6 +1,7 @@
 ---
-layout: spage
+layout: page
 title: "WALA Ariadne"
+sidebar-title: "WALA Ariadne"
 ---
 
 ## What is it? 

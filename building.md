@@ -1,9 +1,8 @@
 ---
-layout: spage
-title: "Building"
+layout: page
+title: "Building WALA"
+sidebar-title: "Building"
 ---
-
-# Building WALA
 
 * You must install these projects in order, as there are dependences
 
