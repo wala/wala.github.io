@@ -13,7 +13,7 @@ title: "WALA Ariadne: Installing in PyCharm"
 
 ## Steps
 
-* Optionally, [build our modified LSP plugin for the Intellij family](../ariadne_pycharm_lsp_plugin)
+* Optionally, [build our modified LSP plugin for the Intellij family](/ariadne_pycharm_lsp_plugin)
 
 * In PyCharm, find Preferences -> Languages & Frameworks -> Language
 Server Protocol -> Server Definitions
