@@ -1,4 +1,7 @@
-# Installing Ariadne for WebSockets
+---
+layout: page
+title: "Installing Ariadne for WebSockets "
+---
 
 ## Prerequisites
 
