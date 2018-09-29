@@ -19,7 +19,6 @@ https://github.com/spyder-ide/spyder`
 Server Protocol Manager-> Setup a new server
 
 * Add a server for Python that invokes the Ariadne jar:
-
-| Language | Python |
-| Address | localhost:<port> |
-| Command to execute | `<JAVA_HOME>/bin.java -jar <ariadne jar> --mode server --port <port>` |
+  * Language: Python
+  * Address: localhost:<port>
+  * Command to execute: `<JAVA_HOME>/bin.java -jar <ariadne jar> --mode server --port <port>`
