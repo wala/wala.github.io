@@ -17,7 +17,7 @@ title: "WALA Ariadne: Installing in Monaco"
 
 * `yarn install`
 
-### [Get Ariadne for WebSockets](../ariadne_websockets)
+### [Get Ariadne for WebSockets](/ariadne_websockets)
 
 ### Open Editor
 

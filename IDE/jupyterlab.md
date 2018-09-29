@@ -28,7 +28,7 @@ Tomcat 9
 
 * `jupyter labextension link`
 
-### [Get Ariadne for WebSockets](../ariadne_websockets)
+### [Get Ariadne for WebSockets](/ariadne_websockets)
 
 ### Open Editor
 
