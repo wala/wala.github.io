@@ -7,7 +7,7 @@ title: "WALA Ariadne: Installing in Eclipse"
 
 ## Prerequisites
 
-* Eclipse Oxygen or Photon
+* Eclipse Photon
 
 * Eclipse needs [PyDev](http://www.pydev.org/) installed
 
