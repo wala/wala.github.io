@@ -7,12 +7,11 @@ title: "WALA Ariadne: Installing in PyCharm"
 
 ## Prerequisites
 
-* Recent PyCham
+* Recent PyCharm
 
 * PyCharm must have LSP plugin installed
 
-* PyCharm must be invoked in a context where JAVA_HOME points to a
-Java 8 JDK
+* Run PyCharm in a context where JAVA_HOME points to a Java 8 JDK
 
 ## Steps
 
