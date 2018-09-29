@@ -1,4 +1,9 @@
-# Installing Ariadne in Visual Studio Code
+---
+layout: page
+title: "WALA Ariadne: Installing in VSCode"
+---
+
+{% include downloading.md %}
 
 ## Prerequisites
 

@@ -1,4 +1,9 @@
-# Installing Ariadne in JupyterLab
+---
+layout: page
+title: "WALA Ariadne: Installing in JupyterLab"
+---
+
+{% include downloading.md %}
 
 ## Prerequisites
 

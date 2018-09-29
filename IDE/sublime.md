@@ -1,4 +1,9 @@
-# Installing Ariadne in Sublime
+---
+layout: page
+title: "WALA Ariadne: Installing in Sublime"
+---
+
+{% include downloading.md %}
 
 ## Prerequisites
 

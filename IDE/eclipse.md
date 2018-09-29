@@ -1,4 +1,9 @@
-# Installing Ariadne in Eclipse
+---
+layout: page
+title: "WALA Ariadne: Installing in Eclipse"
+---
+
+{% include downloading.md %}
 
 ## Prerequisites
 

@@ -1,4 +1,9 @@
-# Installing Ariadne in Spyder
+---
+layout: page
+title: "WALA Ariadne: Installing in Spyder"
+---
+
+{% include downloading.md %}
 
 ## Steps
 

@@ -1,3 +1,7 @@
+---
+layout: default
+title: "WALA: T.J. Watson Libraries for Analysis"
+---
 # WALA
 
 * [Building](./building.md) 

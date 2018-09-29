@@ -1,4 +1,9 @@
-# Installing Ariadne in VI
+---
+layout: page
+title: "WALA Ariadne: Installing in vi(m)"
+---
+
+{% include downloading.md %}
 
 ## Prerequisites
 

@@ -1,4 +1,8 @@
-# Building WALA
+---
+layout: page
+title: "Building WALA"
+sidebar-title: "Building"
+---
 
 * You must install these projects in order, as there are dependences
 
