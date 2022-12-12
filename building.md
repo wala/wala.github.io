@@ -20,7 +20,7 @@ sidebar-title: "Building"
 
 * `cd WALA`
 
-* `./gradlew prepareMavenBuild`
+* `./gradlew build`
 
 * `mvn clean install -DskipTests`
 
